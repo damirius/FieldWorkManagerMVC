@@ -3,5 +3,5 @@
  * and use the values available accross the application
  */
 (function(config) {
-  config.rootFolder = "/FieldWorkAssistantMVC/";
+  config.rootFolder = "/FieldWorkManagerMVC/";
 }(window.config = window.config || {}));
